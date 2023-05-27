@@ -1,4 +1,12 @@
+<!-- omit from toc -->
 # MATLABthon @Polimi 2023
+
+- [Project description](#project-description)
+- [Project structure](#project-structure)
+  - [Data folder](#data-folder)
+  - [Scripts / Notebooks](#scripts--notebooks)
+- [Run instructions](#run-instructions)
+- [Hint](#hint)
 
 Accelerometer and GPS data detection for stride analysis.
 
@@ -24,8 +32,10 @@ We used the following features:
 
 ### Scripts / Notebooks
 
-- `Team8.mlx` is the final notebook.
-- `compute_distance.m` has a function use to evaluate the total distance traveled.
+- [`Team8.mlx`](./Team8.mlx) is the final notebook.
+- [`compute_distance.m`](./compute_distance.m) has a function use to evaluate the total distance traveled.
+- [`timeElapsed.m`](./timeElapsed.m) is a provided file for manipulating time-series data.
+- [`walking_data`](./walking_data/) contains the collected data using the mobile app.
 
 ## Run instructions
 
