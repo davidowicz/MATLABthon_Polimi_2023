@@ -14,4 +14,16 @@ We used the following features:
 
 
 ## Run instructions
+
+The `Signal Processing Toolbox` is needed.
+
 To correctly run this project, 
+
+
+## Hint
+
+One expects a higher mean stride in higher people, here is a reference of the height of the people collecting data:
+
+- Person 1_ height 160cm
+- Person 2: height 174cm
+- Person 3: height 192cm
