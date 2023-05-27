@@ -41,7 +41,7 @@ We used the following features:
 
 The `Signal Processing Toolbox` is needed.
 
-To correctly run this project, just run the `Team8.mlx` file which contains the walkthrough of the analysis.
+To correctly run this project, just run the [`Team8.mlx`](./Team8.mlx) file which contains the walkthrough of the analysis.
 
 ## Hint
 
